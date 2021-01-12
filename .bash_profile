@@ -9,6 +9,7 @@ export PATH="/usr/local/sbin:$PATH"
 alias proxy="export ALL_PROXY=socks5://127.0.0.1:1086; echo $ALL_PROXY; curl www.google.com"
 alias unproxy="unset ALL_PROXY; echo $ALL_PROXY"
 
+# 使得当前shell的node版本为12
 alias node12='export PATH="/usr/local/opt/node@12/bin:$PATH"'
 
 
