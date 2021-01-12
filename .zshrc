@@ -16,7 +16,7 @@ source $ZSH/oh-my-zsh.sh
 source ~/.bash_profile
 
 # 修复autojump: https://github.com/wting/autojump/issues/196
-# [[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
+[[ -s `brew --prefix`/etc/autojump.sh ]] && . `brew --prefix`/etc/autojump.sh
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
