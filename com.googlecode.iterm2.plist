@@ -400,7 +400,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>-284 1244 592 584 -284 800 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>365 1121 836 446 -300 800 1920 1055 </string>
+	<string>675 0 570 775 0 0 1280 775 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>658 1378 570 458 -300 800 1920 1055 </string>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
@@ -1117,7 +1117,7 @@
 			<key>Rows</key>
 			<integer>25</integer>
 			<key>Screen</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>Scrollback Lines</key>
 			<integer>2000</integer>
 			<key>Scrollback With Status Bar</key>
@@ -1199,7 +1199,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>7</integer>
+	<integer>8</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
