@@ -1186,6 +1186,10 @@
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
 	<integer>4</integer>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>
 	<true/>
 	<key>NoSyncPermissionToShowTip</key>
