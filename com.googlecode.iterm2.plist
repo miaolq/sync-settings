@@ -400,7 +400,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>-284 1244 592 584 -284 800 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>675 0 570 775 0 0 1280 775 </string>
+	<string>113 346 1018 429 0 0 1280 775 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>658 1378 570 458 -300 800 1920 1055 </string>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
@@ -1117,7 +1117,7 @@
 			<key>Rows</key>
 			<integer>25</integer>
 			<key>Screen</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Scrollback Lines</key>
 			<integer>2000</integer>
 			<key>Scrollback With Status Bar</key>
@@ -1147,7 +1147,7 @@
 			<key>Silence Bell</key>
 			<false/>
 			<key>Space</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -1173,7 +1173,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>9</integer>
+			<integer>7</integer>
 			<key>Working Directory</key>
 			<string>/Users/miao</string>
 		</dict>
@@ -1192,14 +1192,14 @@
 		<key>screenFrame</key>
 		<string>{{-300, 800}, {1920, 1080}}</string>
 		<key>topLeft</key>
-		<string>{-179, 1541}</string>
+		<string>{63, 1544}</string>
 	</dict>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1989,8 +1989,12 @@
 	<date>2021-01-12T15:43:24Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
+	<key>ShowPaneTitles</key>
+	<true/>
 	<key>SoundForEsc</key>
 	<false/>
+	<key>StretchTabsToFillBar</key>
+	<true/>
 	<key>TabStyle</key>
 	<integer>0</integer>
 	<key>TabStyleWithAutomaticOption</key>
