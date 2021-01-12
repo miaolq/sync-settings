@@ -334,6 +334,8 @@
 	<false/>
 	<key>HideMenuBarInFullscreen</key>
 	<false/>
+	<key>HideTab</key>
+	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
@@ -400,7 +402,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>-284 1244 592 584 -284 800 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>113 346 1018 429 0 0 1280 775 </string>
+	<string>538 800 311 1055 -300 800 1920 1055 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>658 1378 570 458 -300 800 1920 1055 </string>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
@@ -1199,7 +1201,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
