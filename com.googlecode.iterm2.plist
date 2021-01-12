@@ -400,7 +400,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>-284 1244 592 584 -284 800 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>762 1307 906 548 -300 800 1920 1055 </string>
+	<string>339 317 570 458 0 0 1280 775 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>658 1378 570 458 -300 800 1920 1055 </string>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
@@ -563,11 +563,11 @@
 			<key>Background Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.0</real>
+				<real>1</real>
 				<key>Green Component</key>
-				<real>0.0</real>
+				<real>1</real>
 				<key>Red Component</key>
-				<real>0.0</real>
+				<real>1</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
@@ -593,11 +593,11 @@
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>1</real>
+				<real>0.0</real>
 				<key>Green Component</key>
-				<real>1</real>
+				<real>0.0</real>
 				<key>Red Component</key>
-				<real>1</real>
+				<real>0.0</real>
 			</dict>
 			<key>Character Encoding</key>
 			<integer>4</integer>
@@ -610,11 +610,11 @@
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 				<key>Green Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 				<key>Red Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 			</dict>
 			<key>Cursor Guide Color</key>
 			<dict>
@@ -653,11 +653,11 @@
 			<key>Foreground Color</key>
 			<dict>
 				<key>Blue Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 				<key>Green Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 				<key>Red Component</key>
-				<real>0.73333334922790527</real>
+				<real>0.0</real>
 			</dict>
 			<key>Guid</key>
 			<string>187B8396-728D-477D-99D7-B6CAA81E330A</string>
@@ -1182,14 +1182,14 @@
 		<key>screenFrame</key>
 		<string>{{-300, 800}, {1920, 1080}}</string>
 		<key>topLeft</key>
-		<string>{94, 1506}</string>
+		<string>{135, 1487}</string>
 	</dict>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>5</integer>
+	<integer>6</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
