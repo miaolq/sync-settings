@@ -12,7 +12,7 @@ export ZSH="/Users/miaolinqiang/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 
 
-# source $ZSH/oh-my-zsh.sh
+source $ZSH/oh-my-zsh.sh
 source ~/.bash_profile
 
 # Set list of themes to pick from when loading at random
