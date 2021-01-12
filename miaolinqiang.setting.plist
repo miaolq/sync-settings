@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+
+    <key>Label</key>
+    <string>miaolinqiang.setting.plist</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>WatchPaths</key>
+    <array>
+	    <string>~/sync-settings</string>
+    </array>
+
+    <key>StandardErrorPath</key>
+    <string>/tmp/miaolinqiang.setting.plist.error</string>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/miaolinqiang.setting.plist.out</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>PATH</key>
+      <string><![CDATA[/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin]]></string>
+    </dict>
+
+    <key>ProgramArguments</key>
+    <array>
+      <!-- 注意zsh位置，which zsh -->
+      <string>/bin/zsh</string>
+      <string>-c</string>
+      <string>~/sync-settings/sync.sh</string>
+      <!-- 注意改路径 -->
+      <!-- <string>~/sync-settings/sync.sh</string> -->
+    </array>
+
+    <key>WorkingDirectory</key>
+    <!-- 注意改路径 -->
+    <string>/Users/miaolinqiang/sync-settings</string>
+
+  </dict>
+</plist>

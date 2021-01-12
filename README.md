@@ -1,2 +1,2 @@
 # sync-settings
-sync settings between mac
+sync settings between macs

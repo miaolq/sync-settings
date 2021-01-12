@@ -1,0 +1,1 @@
+launchctl load ./miaolinqiang.setting.plist
