@@ -18,9 +18,9 @@
     <key>StartCalendarInterval</key>
     <dict>
 		  <key>Hour</key>
-		  <integer>9,10,18,19,20</integer>
+		  <integer>*/integer>
 		  <key>Minute</key>
-		  <integer>30</integer>
+		  <integer>*/1</integer>
 	  </dict>
 
     <key>StandardErrorPath</key>
