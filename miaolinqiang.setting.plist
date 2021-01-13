@@ -15,6 +15,14 @@
 	    <string>~/sync-settings</string>
     </array>
 
+    <key>StartCalendarInterval</key>
+    <dict>
+		  <key>Hour</key>
+		  <integer>9,10,18,19,20</integer>
+		  <key>Minute</key>
+		  <integer>30</integer>
+	  </dict>
+
     <key>StandardErrorPath</key>
     <string>/tmp/miaolinqiang.setting.plist.error</string>
 
