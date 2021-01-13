@@ -10,15 +10,15 @@
     <key>RunAtLoad</key>
     <true/>
 
-    <key>WatchPaths</key>
+    <!-- <key>WatchPaths</key>
     <array>
 	    <string>~/sync-settings</string>
-    </array>
+    </array> -->
 
     <key>StartCalendarInterval</key>
     <dict>
 		  <key>Hour</key>
-		  <string>9,10,18,19,20</string>
+		  <string>9,10,13,18,19,20</string>
 		  <key>Minute</key>
 		  <string>*/10</string>
 	  </dict>
