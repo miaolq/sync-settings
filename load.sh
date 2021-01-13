@@ -1,1 +1,1 @@
-launchctl load -w ./miaolinqiang.setting.plist
+launchctl load -w ~/sync-settings/miaolinqiang.setting.plist
