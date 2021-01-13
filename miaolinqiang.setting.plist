@@ -16,12 +16,15 @@
     </array> -->
 
     <key>StartCalendarInterval</key>
-    <dict>
-		  <key>Hour</key>
-		  <string>9,10,13,18,19,20</string>
-		  <key>Minute</key>
-		  <string>*/10</string>
-	  </dict>
+    <array>
+      <dict>
+		    <key>Hour</key>
+		    <integer>9</integer>
+		    <key>Minute</key>
+		    <integer>50</integer>
+	    </dict>
+    </array>
+    
 
     <key>StandardErrorPath</key>
     <string>/tmp/miaolinqiang.setting.plist.error</string>
