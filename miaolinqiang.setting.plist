@@ -10,10 +10,10 @@
     <key>RunAtLoad</key>
     <true/>
 
-    <key>WatchPaths</key>
+    <!-- <key>WatchPaths</key>
     <array>
 	    <string>~/sync-settings</string>
-    </array>
+    </array> -->
 
     <key>StandardErrorPath</key>
     <string>/tmp/miaolinqiang.setting.plist.error</string>
