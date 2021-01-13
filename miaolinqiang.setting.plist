@@ -20,7 +20,7 @@
 		  <key>Hour</key>
 		  <integer>*</integer>
 		  <key>Minute</key>
-		  <integer>*/20</integer>
+		  <string>*/20</string>
 	  </dict>
 
     <key>StandardErrorPath</key>
