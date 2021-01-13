@@ -7,20 +7,20 @@
     <key>Label</key>
     <string>miaolinqiang.setting.plist</string>
 
-    <!-- <key>RunAtLoad</key>
-    <true/> -->
+    <key>RunAtLoad</key>
+    <true/>
 
-    <!-- <key>WatchPaths</key>
+    <key>WatchPaths</key>
     <array>
 	    <string>~/sync-settings</string>
-    </array> -->
+    </array>
 
     <key>StartCalendarInterval</key>
     <dict>
 		  <key>Hour</key>
-		  <string>*</string>
+		  <string>9,10,18,19,20</string>
 		  <key>Minute</key>
-		  <string>*/1</string>
+		  <string>*/10</string>
 	  </dict>
 
     <key>StandardErrorPath</key>
