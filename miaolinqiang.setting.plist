@@ -12,7 +12,7 @@
 
     <key>WatchPaths</key>
     <array>
-	    <string>~/sync-settings</string>
+	    <string>/Users/miaolinqiang/sync-settings</string>
     </array>
 
     <key>StartCalendarInterval</key>
