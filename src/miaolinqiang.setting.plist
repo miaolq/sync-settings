@@ -12,10 +12,12 @@
 
     <key>WatchPaths</key>
     <array>
-	    <string>/Users/miaolinqiang/sync-settings/settings</string>
+	    <string>/Users/miaolinqiang/sync-settings/src</string>
+	    <string>/Users/miaolinqiang/sync-settings/README.md</string>
+      <string>/Users/miaolinqiang/sync-settings/.gitignore</string>
     </array>
 
-    <key>StartCalendarInterval</key>
+    <!-- <key>StartCalendarInterval</key>
     <array>
       <dict>
 		    <key>Hour</key>
@@ -41,7 +43,7 @@
 		    <key>Minute</key>
 		    <integer>30</integer>
 	    </dict>
-    </array>
+    </array> -->
     
 
     <key>StandardErrorPath</key>
@@ -56,19 +58,18 @@
       <string><![CDATA[/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin]]></string>
     </dict>
 
+    <key>WorkingDirectory</key>
+    <!-- 注意改路径 -->
+    <string>/Users/miaolinqiang/sync-settings</string>
+
     <key>ProgramArguments</key>
     <array>
       <!-- 注意zsh位置，which zsh -->
       <string>/bin/zsh</string>
       <string>-c</string>
-      <string>~/sync-settings/sync.sh</string>
       <!-- 注意改路径 -->
-      <!-- <string>~/sync-settings/sync.sh</string> -->
+      <string>/Users/miaolinqiang/sync-settings/src/sync.sh</string>
     </array>
-
-    <key>WorkingDirectory</key>
-    <!-- 注意改路径 -->
-    <string>/Users/miaolinqiang/sync-settings</string>
 
   </dict>
 </plist>
