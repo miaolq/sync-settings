@@ -328,6 +328,8 @@
 	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
+	<key>MaxVertically</key>
+	<false/>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
 	<true/>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A_selection</key>
@@ -1044,7 +1046,7 @@
 			<key>Rows</key>
 			<integer>25</integer>
 			<key>Screen</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>Scrollback Lines</key>
 			<integer>2000</integer>
 			<key>Scrollback With Status Bar</key>
@@ -1100,7 +1102,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>9</integer>
+			<integer>2</integer>
 			<key>Working Directory</key>
 			<string>/Users/miao</string>
 		</dict>
