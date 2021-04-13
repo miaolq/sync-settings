@@ -404,7 +404,7 @@
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>-284 1244 592 584 -284 800 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 104 1885 951 0 0 1920 1055 </string>
+	<string>0 602 1885 453 0 0 1920 1055 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>658 1378 570 458 -300 800 1920 1055 </string>
 	<key>NeverWarnAboutShortLivedSessions_187B8396-728D-477D-99D7-B6CAA81E330A</key>
@@ -1207,7 +1207,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>8F800D30-1FB6-42B6-9B59-B65B420E1613</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>36</integer>
+	<integer>38</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1993,6 +1993,8 @@
 	<string>/Users/miaolinqiang/sync-settings/src</string>
 	<key>Print In Black And White</key>
 	<true/>
+	<key>PromptOnQuit</key>
+	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>SUAutomaticallyUpdate</key>
